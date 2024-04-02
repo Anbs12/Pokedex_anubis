@@ -23,7 +23,6 @@ export default function RootLayout({
         {children} 
         <footer className="bg-gray-800 text-white pt-1 p-1 text-center static bottom-0 w-full">
           <p>Hecho por Anubis</p>
-          <p>Para prueba técnica en Examedi</p>
         </footer>
         </body>
     </html>
